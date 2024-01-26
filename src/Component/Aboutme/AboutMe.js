@@ -68,10 +68,6 @@ export default function AboutMe() {
               <i className="fa fa-github"></i>
             </a>
           </div>
-          {/* <div className="credit">
-            Made with <span style={{ color: 'tomato', fontSize: '20px' }}>❤ </span>by
-            <a href="https://www.learningrobo.com/"> Learning Robo</a>
-          </div> */}
         </div>
       </div>
     </div>
